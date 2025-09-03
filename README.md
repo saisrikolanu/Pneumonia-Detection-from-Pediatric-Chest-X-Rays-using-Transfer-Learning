@@ -70,4 +70,4 @@ This project investigates **deep learning methods for pneumonia detection** in p
 1. Clone the repository:
    ```bash
    git clone https://github.com/saisrikolanu/Pneumonia-Detection-from-Pediatric-Chest-X-Rays-using-Transfer-Learning.git
-   cd saisrikolanu/Pneumonia-Detection-from-Pediatric-Chest-X-Rays-using-Transfer-Learning
+   cd Pneumonia-Detection-from-Pediatric-Chest-X-Rays-using-Transfer-Learning
